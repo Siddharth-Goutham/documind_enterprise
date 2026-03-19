@@ -1,0 +1,72 @@
+body{
+    background: #191919;
+}
+
+.text_button{
+    font-family: "Ubuntu", sans-serif;
+    border: 0.002vw solid gray;
+    border-radius: 50vw;
+    font-size: 1.3vw;
+    background: #292929;
+    color: white;
+}
+#question_box{
+    width: 88vw;
+    height: 2.2vw;
+    padding-left: 1vw;
+    margin-left: 1vw;
+}
+
+#ask{
+    width: 5vw;
+    height: 2.5vw;
+    border-radius: 25vw;
+    margin-left: 1vw;
+}
+
+#message_box{
+    margin-bottom: 2vw;
+    height: 35vw;
+    /*display: flex;*/
+    /*justify-content: center;*/
+    /*align-items: center;*/
+    width: 70vw;
+    background: #292929;
+    margin-left: 14vw;
+    margin-right: 15vw ;
+    margin-top: 1vw;
+    border: 0.15vw solid black;
+    border-radius: 2vw;
+    color: white;
+    padding-left: 2vw;
+    font-family: "Ubuntu", sans-serif;
+    font-size: 1.25vw;
+    padding-top: 2vw;
+}
+
+.upload-container{
+    width: 69.5vw;
+    background-color: #292929;
+    color: white;
+    font-family: "Ubuntu", sans-serif;
+    margin-left: 14vw;
+    height: 2.5vw;
+    text-align: center;
+    margin-top: 1.5vw;
+    border: none;
+    border-radius: 50vw;
+    padding-left: 1vw;
+    padding-top: 0.03vw;
+    margin-right: 3vw;
+
+}
+
+#answer{
+    padding-top: 1.2vw;
+    color: rgba(229,255,96,0.72);
+}
+
+.upload-container:hover, #question_box:hover, #ask:hover{
+    border-color: white;
+    box-shadow: 0 0 10px rgba(255,255,255, 0.2);
+}

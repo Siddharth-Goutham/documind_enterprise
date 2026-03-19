@@ -1,0 +1,10 @@
+flask
+flask-wtf
+python-dotenv
+langchain
+langchain-community
+langchain-huggingface
+langchain-chroma
+pypdf
+sentence-transformers
+huggingface_hub
