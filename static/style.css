@@ -42,6 +42,7 @@ body{
     font-family: "Ubuntu", sans-serif;
     font-size: 1.25vw;
     padding-top: 2vw;
+    line-height: 2vw;
 }
 
 .upload-container{
@@ -64,6 +65,7 @@ body{
 #answer{
     padding-top: 1.2vw;
     color: rgba(229,255,96,0.72);
+    line-height: 2vw;
 }
 
 .upload-container:hover, #question_box:hover, #ask:hover{
