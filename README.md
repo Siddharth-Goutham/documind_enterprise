@@ -20,8 +20,6 @@ Meet **Jassi**—your dedicated AI assistant who strictly uses your uploaded doc
 
 For a professional GitHub repository, an Author or Contact section is the finishing touch. It lets people know who built this and how to reach out for collaborations.
 
-You can paste this at the bottom of your README.md:
-
 ✍️ **Author**
 Siddharth Goutham
 
