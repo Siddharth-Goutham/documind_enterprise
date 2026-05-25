@@ -8,3 +8,4 @@ langchain-chroma
 pypdf
 sentence-transformers
 huggingface_hub
+gunicorn==21.2.0
